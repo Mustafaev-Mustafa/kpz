@@ -1,0 +1,14 @@
+F:\Studying\labs\3 year\exam\Models\bin\Debug\net6.0\Models.deps.json
+F:\Studying\labs\3 year\exam\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+F:\Studying\labs\3 year\exam\Models\bin\Debug\net6.0\Models.dll
+F:\Studying\labs\3 year\exam\Models\bin\Debug\net6.0\Models.pdb
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\Models.dll
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\refint\Models.dll
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\Models.pdb
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+F:\Studying\labs\3 year\exam\Models\obj\Debug\net6.0\ref\Models.dll
